@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
+</picture>
+
 # Abdullah Al-Shobaki
 
 ```python
@@ -73,9 +79,3 @@ linkedin  →  linkedin.com/in/abdulahals
 email     →  abdullah.hani2004@icloud.com
 github    →  github.com/3bdulah
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-</picture>
