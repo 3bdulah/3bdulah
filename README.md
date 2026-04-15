@@ -62,7 +62,7 @@ Selected from 200+ submissions at SDAIA competition
 
 ```
 [x] IBM AI Engineering
-[x] IBM Deep Learning with PyTorch, Keras, and Tensorflow 
+[x] IBM Deep Learning with PyTorch, Keras and Tensorflow Specialization
 [x] IBM Machine Learning Specialization
 [x] IBM Data Science Specialization
 [x] AWS AI & ML Scholars — Future AI Engineer Nanodegree (Udacity)
