@@ -38,11 +38,3 @@ Fine-tuned ALLaM on Watsonx over 12 iterations. Evaluated on 120+ Arabic sentenc
 IBM AI Engineering · IBM Machine Learning Specialization · IBM Data Science Specialization  
 AWS AI & ML Scholars — Future AI Engineer Nanodegree *(Udacity)*  
 Data Science & AI Track *(Twaiq Academy)* · Microsoft Data Science & AI · STC Data Analysis
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-</picture>
