@@ -1,40 +1,90 @@
 # Abdullah Al-Shobaki
 
-AI Engineer based between Riyadh and Istanbul. I build end-to-end ML systems — from training and fine-tuning to deployment on-device and in the cloud. Currently finishing my AI Engineering degree at Bahçeşehir University.
-
-Most of my work sits at the intersection of computer vision, NLP, and applied deep learning. I've shipped real projects at Apple, SCAI, and SDAIA — not just notebooks.
-
----
-
-### What I work with
-
-```
-ML/DL        PyTorch · TensorFlow · Keras · Scikit-learn · Core ML · Create ML
-Vision       YOLOv8 · OpenCV · MediaPipe · ViT · Gemini Vision
-NLP          BERT · DistilBERT · Transformers · ALLaM · Arabic NLP
-GenAI        AWS Bedrock · RAG · Prompt Engineering
-Languages    Python · Swift · SwiftUI · C++ · R · SQL
-Cloud        Azure · CloudKit · Supabase · Docker · Kubernetes
-Data         Pandas · NumPy · Matplotlib · Power BI · Feature Engineering
+```python
+>>> whoami
+AI Engineer · Riyadh 🇸🇦 / Istanbul 🇹🇷
+>>> current_status
+"Finishing AI Engineering @ Bahçeşehir University (2026)"
+>>> focus
+["computer vision", "NLP", "multimodal AI", "on-device ML"]
+>>> note
+"I've shipped real systems at Apple, SCAI, and SDAIA — not just notebooks."
 ```
 
 ---
 
-### Selected Projects
+### stack
 
-**[Thalaja](https://github.com/3bdulah)** — AI-powered shared grocery platform *(Apple AI Foundation Program)*  
-Real-time multi-user sync via CloudKit, Gemini Vision for item capture, voice parsing, barcode recognition. Built in SwiftUI with full Arabic/English RTL support. Shipped to TestFlight.
-
-**[Marsad](https://github.com/3bdulah)** — Smart Stadium AI *(SCAI)*  
-Crowd detection with YOLOv8, pose estimation via MediaPipe, Arabic fan assistant chatbot. Built for Vision 2030 and FIFA 2034 readiness. 7 functional modules, 4 visual demos.
-
-**[Wadeh](https://github.com/3bdulah)** — Arabic Grammar Analysis Tool *(SDAIA)*  
-Fine-tuned ALLaM on Watsonx over 12 iterations. Evaluated on 120+ Arabic sentences across 25–30 grammar structures. Selected from 200+ competition submissions.
+```
+ML / DL       PyTorch · TensorFlow · Keras · Scikit-learn · Core ML · Create ML
+Vision        YOLOv8 · OpenCV · MediaPipe · ViT · Gemini Vision
+NLP           BERT · DistilBERT · Transformers · ALLaM · Arabic NLP
+GenAI         AWS Bedrock · RAG · Prompt Engineering
+Languages     Python · Swift · SwiftUI · C++ · R · SQL
+Cloud         Azure · CloudKit · Supabase · Docker · Kubernetes
+Data          Pandas · NumPy · Matplotlib · Power BI · Feature Engineering
+```
 
 ---
 
-### Certifications
+### selected projects
 
-IBM AI Engineering · IBM Machine Learning Specialization · IBM Data Science Specialization  
-AWS AI & ML Scholars — Future AI Engineer Nanodegree *(Udacity)*  
-Data Science & AI Track *(Twaiq Academy)* · Microsoft Data Science & AI · STC Data Analysis
+```bash
+$ ls -1 projects/
+thalaja/     # AI grocery platform — Apple AI Foundation Program
+marsad/      # Smart stadium AI    — SCAI
+wadeh/       # Arabic grammar AI   — SDAIA
+```
+
+**thalaja** — real-time collaborative grocery app  
+CloudKit multi-user sync · Gemini Vision item capture · voice parsing · barcode recognition  
+SwiftUI · Arabic/English RTL · Sign in with Apple · shipped to TestFlight
+
+**marsad** — crowd safety & fan engagement platform  
+YOLOv8 crowd detection · MediaPipe pose estimation · Arabic chatbot assistant  
+7 modules · aligned with Vision 2030 & FIFA 2034
+
+**wadeh** — automated Arabic grammar analysis  
+Fine-tuned ALLaM on Watsonx · 12 iteration cycles · 120+ evaluated sentences  
+Selected from 200+ submissions at SDAIA competition
+
+---
+
+### certifications
+
+```
+[x] IBM AI Engineering
+[x] IBM Machine Learning Specialization
+[x] IBM Data Science Specialization
+[x] AWS AI & ML Scholars — Future AI Engineer Nanodegree (Udacity)
+[x] Data Science & AI Track — Twaiq Academy
+[x] Microsoft Virtual Experience — Data Science & AI
+[x] STC Virtual Experience — Data Analysis
+```
+
+---
+
+### reach me
+
+```
+linkedin  →  linkedin.com/in/abdulahals
+email     →  abdullah.hani2004@icloud.com
+github    →  github.com/3bdulah
+```
+
+---
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=3bdulah&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulah&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
+</picture>
