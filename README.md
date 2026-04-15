@@ -41,21 +41,6 @@ Data Science & AI Track *(Twaiq Academy)* · Microsoft Data Science & AI · STC 
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulahals)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=apple&logoColor=white)](mailto:abdullah.hani2004@icloud.com)
-![Profile Views](https://komarev.com/ghpvc/?username=3bdulah&style=flat-square&color=grey&label=views)
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=3bdulah&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulah&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
-
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
