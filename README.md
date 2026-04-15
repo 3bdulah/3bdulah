@@ -71,20 +71,3 @@ linkedin  →  linkedin.com/in/abdulahals
 email     →  abdullah.hani2004@icloud.com
 github    →  github.com/3bdulah
 ```
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=3bdulah&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulah&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-</picture>
