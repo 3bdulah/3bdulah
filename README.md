@@ -95,16 +95,6 @@ class AbdullahAlShobaki:
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-</picture>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=3bdulah&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </div>
