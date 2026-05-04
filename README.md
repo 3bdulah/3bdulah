@@ -40,8 +40,8 @@ Data          Pandas · NumPy · Matplotlib · Power BI · Feature Engineering
 ```bash
 $ ls -1 projects/
 thalaja/     # AI grocery platform — Apple AI Foundation Program
-marsad/      # Smart stadium AI    — SCAI
-wadeh/       # Arabic grammar AI   — SDAIA
+marsad/      # Smart stadium AI    — SCAI Hackathon
+wadeh/       # Arabic grammar AI   — SDAIA Hackathon
 ```
 
 **thalaja** — real-time collaborative grocery app  
