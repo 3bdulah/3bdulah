@@ -115,8 +115,6 @@ An end-to-end ML workflow covering model comparison, experiment tracking, explai
 **APIs, apps & infrastructure**  
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,azure,supabase&theme=dark" alt="FastAPI, Flask, Docker, AWS, Azure, Supabase" />
 
-</div>
-
 **AI & data stack**
 
 <div align="center">
