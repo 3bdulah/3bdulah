@@ -42,18 +42,18 @@ const abdullah = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 [AI Traffic Management System](https://github.com/3bdulah/ai-traffic-management-system)
+### 🚦 [AI Traffic Control System](https://github.com/3bdulah/ai-traffic-management-system)
 
-A simulation-based traffic system combining vehicle detection and tracking, adaptive signal control, emergency-vehicle priority, and a live dashboard.
+Simulation-based traffic control combining vehicle detection and tracking, adaptive signal timing, emergency-vehicle priority, and a real-time dashboard.
 
-**Stack:** Python · YOLO · SUMO · CARLA · FastAPI · WebSockets
+**Stack:** Python · YOLOv11 · SUMO · CARLA · FastAPI · WebSockets
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 [Explainable AI for Autonomous Vehicles](https://github.com/3bdulah/explainable-ai-autonomous-vehicles)
 
-A CARLA simulation exploring camera and LiDAR inputs for driving decisions, with visual explanations and feature attribution.
+A CARLA-based research project exploring camera and LiDAR inputs for driving decisions, with visual explanations and feature attribution.
 
 **Stack:** Python · CARLA · YOLOv5 · LiDAR · Grad-CAM · SHAP
 
@@ -62,40 +62,40 @@ A CARLA simulation exploring camera and LiDAR inputs for driving decisions, with
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [AWS Bedrock Document Querying](https://github.com/3bdulah/intelligent-document-querying-system)
+### 📝 [Wadeh | واضح](https://github.com/3bdulah/Wadeh-Project)
 
-A document question-answering system built around an Amazon Bedrock Knowledge Base, with S3 ingestion, vector storage, and infrastructure-as-code.
+An Arabic grammar analysis tool for sentence i'rab, with practice quizzes and a random-sentence feature. Selected from more than 200 ideas for the Allam Challenge 2024.
 
-**Stack:** Python · Amazon Bedrock · S3 · Aurora PostgreSQL · Terraform
+**Stack:** Python · Flask · ALLaM · IBM watsonx · Prompt Engineering
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Pensieve — Retrieval-Augmented Chatbot](https://github.com/3bdulah/pensieve)
+### 🏟️ [Marsad | مَرْصَد](https://github.com/3bdulah/marsad-ai-league)
 
-A knowledge-grounded chatbot combining dual FAISS retrieval, Qwen-generated responses, conversation history, and prompt-injection safeguards.
+A smart-stadium AI concept combining crowd-density analysis, player pose and fatigue insights, and an Arabic fan-assistance chatbot.
 
-**Stack:** Python · Flask · FAISS · Qwen · TF-IDF · RAG
+**Stack:** Python · YOLOv8 · MediaPipe · OpenCV · NLP
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Telco Churn MLOps](https://github.com/3bdulah/telco-churn-mlops)
+### 🛒 [Thalaja | ثلاجة](https://github.com/3bdulah/Thalaja)
 
-An end-to-end ML workflow for model comparison, experiment tracking, explainability, drift-monitoring experiments, and API serving.
+An AI-assisted family grocery app concept with receipt OCR, shared lists, expiry tracking, voice input, and meal suggestions. The public repository contains documentation, not the full source code.
 
-**Stack:** scikit-learn · MLflow · SHAP · FastAPI · Docker
+**Stack:** Swift · SwiftUI · VisionKit · Core ML · CloudKit · Gemini
 
 </td>
 <td width="50%" valign="top">
 
-### 🤟 [Sign Language Multimodal System](https://github.com/3bdulah/sign-language-multimodal-system)
+### 🔎 [Telco Churn MLOps](https://github.com/3bdulah/telco-churn-mlops)
 
-An educational vision-to-language-to-speech pipeline that recognizes hand gestures, generates short text, and converts it to speech.
+An end-to-end ML workflow covering model comparison, experiment tracking, explainability, drift-monitoring experiments, and API serving.
 
-**Stack:** Python · MediaPipe · OpenCV · scikit-learn · FLAN-T5 · gTTS
+**Stack:** Python · scikit-learn · MLflow · SHAP · FastAPI · Docker
 
 </td>
 </tr>
@@ -120,7 +120,18 @@ An educational vision-to-language-to-speech pipeline that recognizes hand gestur
 
 **AI & data stack**
 
-Hugging Face Transformers · YOLO · MediaPipe · FAISS / RAG · Amazon Bedrock · Qwen · ALLaM · IBM watsonx · MLflow · SHAP · Terraform · SQL
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=huggingface,pytorch,tensorflow,opencv,sklearn,aws,azure,docker,terraform,postgres&theme=dark" alt="Hugging Face, PyTorch, TensorFlow, OpenCV, scikit-learn, AWS, Azure, Docker, Terraform, PostgreSQL" />
+
+<p>
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-334155?style=flat&logo=opencv&logoColor=white" alt="YOLO computer vision" />
+<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-334155?style=flat&logo=mlflow&logoColor=white" alt="MLflow experiment tracking" />
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-334155?style=flat" alt="SHAP explainable AI" />
+<img src="https://img.shields.io/badge/IBM%20watsonx-Generative%20AI-334155?style=flat&logo=ibm&logoColor=white" alt="IBM watsonx generative AI" />
+</p>
+
+</div>
 
 
 <div align="center">
