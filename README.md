@@ -20,8 +20,6 @@ I'm an Artificial Intelligence Engineering graduate from **Bahçeşehir Universi
 
 My interests sit around **machine learning, computer vision, multimodal AI, Arabic NLP, and generative AI**. I care about what a model can do, how it behaves, and where its limitations are.
 
-## Me, in code
-
 ```typescript
 const abdullah = {
   role: "AI Engineer",
