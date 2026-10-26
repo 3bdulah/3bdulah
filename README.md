@@ -65,10 +65,22 @@ An Arabic grammar-analysis web application using ALLaM through IBM watsonx, Flas
 
 ## Credentials
 
-- **GitHub Copilot Fundamentals (GH-300)** — earned
-- **AWS Certified AI Practitioner** — in progress
-- **SDAIA AI Engineer Badge** — exam scheduled for December 5, 2026
-- Other completed coursework and certificates are listed on my professional profiles where applicable.
+**Earned**
+- GitHub Copilot Fundamentals (GH-300)
+- IBM AI Engineering
+- IBM Deep Learning with PyTorch, Keras and TensorFlow Specialization
+- IBM Machine Learning Specialization
+- IBM Data Science Specialization
+- AWS AI & ML Scholars — Future AI Engineer Nanodegree (Udacity)
+- Data Science & AI Track — Tuwaiq Academy
+- Microsoft Virtual Experience — Data Science & AI
+- STC Virtual Experience — Data Analysis
+
+**In progress / scheduled**
+- AWS Certified AI Practitioner — in progress
+- SDAIA AI Engineer Badge — exam scheduled for December 5, 2026
+
+*Keep this list aligned with the actual credential records and update it whenever a certificate's status changes.*
 
 ## Contact
 
