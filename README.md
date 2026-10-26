@@ -1,82 +1,74 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake.svg" />
-</picture>
+<div align="center">
 
 # Abdullah Al-Shobaki
 
-```python
->>> whoami
-"Abdullah Al-Shobaki"
->>> role
-"AI Engineer · Riyadh 🇸🇦 / Istanbul 🇹🇷"
->>> current_status
-"Finishing AI Engineering @ Bahçeşehir University (2026)"
->>> focus
-["computer vision", "NLP", "multimodal AI", "on-device ML"]
->>> note
-"I've shipped real systems at Apple, SCAI, and SDAIA — not just notebooks."
-```
+**AI Engineer | Machine Learning | Computer Vision | Generative AI**
+
+Artificial Intelligence Engineering graduate from Bahçeşehir University, focused on building practical AI systems across computer vision, multimodal learning, explainable AI, NLP, and LLM applications.
+
+Riyadh, Saudi Arabia
+
+[Portfolio](https://abdullahalshobaki.me) · [LinkedIn](https://www.linkedin.com/in/abdulahals) · [GitHub](https://github.com/3bdulah)
+
+</div>
 
 ---
 
-### stack
+## Current focus
 
-```
-ML / DL       PyTorch · TensorFlow · Keras · Scikit-learn · Core ML · Create ML
-Vision        YOLOv8 · OpenCV · MediaPipe · ViT · Gemini Vision
-NLP           BERT · DistilBERT · Transformers · ALLaM · Arabic NLP
-GenAI         AWS Bedrock · RAG · Prompt Engineering
-Languages     Python · Swift · SwiftUI · C++ · R · SQL
-Cloud         Azure · CloudKit · Supabase · Docker · Kubernetes
-Data          Pandas · NumPy · Matplotlib · Power BI · Feature Engineering
-```
+- Machine learning and deep learning
+- Computer vision and multimodal AI
+- Arabic NLP and LLM applications
+- Explainable AI and evaluation
+- On-device ML with Core ML
+- Practical AI systems, APIs, and dashboards
 
----
+## Selected projects
 
-### selected projects
+### [AI-Based Smart Traffic Management System](https://github.com/3bdulah/ai-traffic-management-system)
+A simulation-based traffic management and monitoring platform combining SUMO, computer vision, adaptive signal-control policies, emergency-vehicle prioritization, and a real-time dashboard. The README reports evaluation results from defined simulation scenarios; these should not be interpreted as evidence of live traffic deployment.
 
-```bash
-$ ls -1 projects/
-thalaja/     # AI grocery platform — Apple AI Foundation Program
-marsad/      # Smart stadium AI    — SCAI Hackathon
-wadeh/       # Arabic grammar AI   — SDAIA Hackathon
-```
+### [Explainable AI for Autonomous Vehicles](https://github.com/3bdulah/explainable-ai-autonomous-vehicles)
+A CARLA-based autonomous-driving simulation exploring interpretable perception and driving decisions with RGB cameras, LiDAR, YOLOv5, Grad-CAM, and SHAP.
 
-**thalaja** — real-time collaborative grocery app  
-CloudKit multi-user sync · Gemini Vision item capture · voice parsing · barcode recognition  
-SwiftUI · Arabic/English RTL · Sign in with Apple · shipped to TestFlight
+### [Telco Churn MLOps](https://github.com/3bdulah/telco-churn-mlops)
+An end-to-end machine-learning workflow with model comparison, MLflow experiment tracking, SHAP explanations, drift-monitoring experiments, FastAPI, Streamlit, and Azure ML deployment scripts.
 
-**marsad** — crowd safety & fan engagement platform  
-YOLOv8 crowd detection · MediaPipe pose estimation · Arabic chatbot assistant  
-7 modules · aligned with Vision 2030 & FIFA 2034
+### [Intelligent Document Querying System](https://github.com/3bdulah/intelligent-document-querying-system)
+A document-question-answering project integrating Amazon Bedrock Knowledge Bases, S3, Aurora Serverless PostgreSQL, and Terraform.
 
-**wadeh** — automated Arabic grammar analysis  
-Fine-tuned ALLaM on Watsonx · 12 iteration cycles · 120+ evaluated sentences  
-Selected from 200+ submissions at SDAIA competition
+### [Thalaja | ثلاجة](https://github.com/3bdulah/Thalaja)
+An AI-assisted shared grocery app concept developed during the Apple Developer Academy AI Foundation program. The public repository contains project documentation, not the complete application source.
 
----
+### [Wadeh | واضح](https://github.com/3bdulah/Wadeh-Project)
+An Arabic grammar-analysis web application using ALLaM through IBM watsonx, Flask, and prompt engineering. Selected for the Allam Challenge 2024 from more than 200 ideas, as documented in the project README.
 
-### certifications
+## Technical toolkit
 
-```
-[x] IBM AI Engineering
-[x] IBM Deep Learning with PyTorch, Keras and Tensorflow Specialization
-[x] IBM Machine Learning Specialization
-[x] IBM Data Science Specialization
-[x] AWS AI & ML Scholars — Future AI Engineer Nanodegree (Udacity)
-[x] Data Science & AI Track — Twaiq Academy
-[x] Microsoft Virtual Experience — Data Science & AI
-[x] STC Virtual Experience — Data Analysis
-```
+- **ML / Deep Learning:** PyTorch, scikit-learn, TensorFlow, Keras
+- **Computer Vision:** OpenCV, YOLO, MediaPipe, Vision Transformers
+- **NLP / GenAI:** Transformers, BERT, Arabic NLP, ALLaM, RAG, prompt engineering
+- **MLOps / Cloud:** MLflow, FastAPI, Azure ML, AWS, Docker
+- **Mobile / On-device AI:** Swift, SwiftUI, Core ML, Create ML
+- **Data:** Pandas, NumPy, SQL, Matplotlib, Power BI
 
----
+## Professional activity
 
-### reach me
+- **Scientific Research Team Lead, AI Committee — Saudi Developer Community (SDC)** · Oct 2026–Present  
+  Leading collaborative work to make AI research more accessible in Arabic through research monitoring, translation, summarization, quality review, and publication.
 
-```
-linkedin  →  linkedin.com/in/abdulahals
-email     →  abdullah.hani2004@icloud.com
-github    →  github.com/3bdulah
-```
+- **Saudi Council of Engineers** · Active registration  
+  Professional classification: **AI Specialist** (أخصائي ذكاء اصطناعي).
+
+## Credentials
+
+- **GitHub Copilot Fundamentals (GH-300)** — earned
+- **AWS Certified AI Practitioner** — in progress
+- **SDAIA AI Engineer Badge** — exam scheduled for December 5, 2026
+- Other completed coursework and certificates are listed on my professional profiles where applicable.
+
+## Contact
+
+- [Portfolio](https://abdullahalshobaki.me)
+- [LinkedIn](https://www.linkedin.com/in/abdulahals)
+- [GitHub](https://github.com/3bdulah)
