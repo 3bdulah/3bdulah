@@ -2,88 +2,68 @@
 
 # Abdullah Al-Shobaki
 
-**AI Engineer | Machine Learning | Computer Vision | Generative AI**
+**AI Engineer · Machine Learning · Computer Vision · Generative AI**
 
-Artificial Intelligence Engineering graduate from Bahçeşehir University, focused on building practical AI systems across computer vision, multimodal learning, explainable AI, NLP, and LLM applications.
+Building practical AI systems — from model development and evaluation to applications people can use.
 
-Riyadh, Saudi Arabia
-
-[Portfolio](https://abdullahalshobaki.me) · [LinkedIn](https://www.linkedin.com/in/abdulahals) · [GitHub](https://github.com/3bdulah)
+[Riyadh, Saudi Arabia](https://www.google.com/maps/search/?api=1&query=Riyadh%2C+Saudi+Arabia) · [Portfolio](https://abdullahalshobaki.me) · [LinkedIn](https://www.linkedin.com/in/abdulahals)
 
 </div>
 
 ---
 
-## Current focus
+## About
 
-- Machine learning and deep learning
-- Computer vision and multimodal AI
-- Arabic NLP and LLM applications
-- Explainable AI and evaluation
-- On-device ML with Core ML
-- Practical AI systems, APIs, and dashboards
+I'm an Artificial Intelligence Engineering graduate from Bahçeşehir University interested in turning AI research and models into useful, well-engineered systems. My work spans computer vision, deep learning, multimodal AI, Arabic NLP, and LLM-powered applications.
 
-## Selected projects
+I care about more than model accuracy: I like understanding how a system works, evaluating its limitations, and connecting it to a usable product.
+
+## Selected work
 
 ### [AI-Based Smart Traffic Management System](https://github.com/3bdulah/ai-traffic-management-system)
-A simulation-based traffic management and monitoring platform combining SUMO, computer vision, adaptive signal-control policies, emergency-vehicle prioritization, and a real-time dashboard. The README reports evaluation results from defined simulation scenarios; these should not be interpreted as evidence of live traffic deployment.
+A simulation-based traffic platform combining vehicle detection and tracking, adaptive signal control, emergency-vehicle prioritization, and a real-time dashboard. Built around SUMO and CARLA with a web interface and backend services.
 
 ### [Explainable AI for Autonomous Vehicles](https://github.com/3bdulah/explainable-ai-autonomous-vehicles)
-A CARLA-based autonomous-driving simulation exploring interpretable perception and driving decisions with RGB cameras, LiDAR, YOLOv5, Grad-CAM, and SHAP.
-
-### [Marsad — Smart Stadium AI](https://github.com/3bdulah/marsad-ai-league)
-A smart-stadium project exploring crowd monitoring, safety analytics, player-performance signals, and an Arabic fan-assistant experience. The repository documents the project and its intended modules; distinguish demonstrated components from proposed capabilities.
+An autonomous-driving simulation exploring how computer-vision predictions and driving decisions can be inspected using camera and LiDAR inputs, YOLOv5, Grad-CAM, and SHAP.
 
 ### [Telco Churn MLOps](https://github.com/3bdulah/telco-churn-mlops)
-An end-to-end machine-learning workflow with model comparison, MLflow experiment tracking, SHAP explanations, drift-monitoring experiments, FastAPI, Streamlit, and Azure ML deployment scripts.
-
-### [Intelligent Document Querying System](https://github.com/3bdulah/intelligent-document-querying-system)
-A document-question-answering project integrating Amazon Bedrock Knowledge Bases, S3, Aurora Serverless PostgreSQL, and Terraform.
-
-### [Thalaja | ثلاجة](https://github.com/3bdulah/Thalaja)
-An AI-assisted shared grocery app concept developed during the Apple Developer Academy AI Foundation program. The public repository contains project documentation, not the complete application source.
+An end-to-end machine-learning workflow covering model comparison, experiment tracking, explainability, drift-monitoring experiments, API serving, and cloud deployment tooling.
 
 ### [Wadeh | واضح](https://github.com/3bdulah/Wadeh-Project)
-An Arabic grammar-analysis web application using ALLaM through IBM watsonx, Flask, and prompt engineering. Selected for the Allam Challenge 2024 from more than 200 ideas, as documented in the project README.
+An Arabic grammar-analysis web application using ALLaM through IBM watsonx, with a Flask backend and prompt-engineering approach.
 
-## Technical toolkit
+### [Thalaja | ثلاجة](https://github.com/3bdulah/Thalaja)
+An AI-assisted grocery and food-inventory app concept built with SwiftUI, with Arabic/English support and features including receipt scanning and expiry tracking. The public repository contains project documentation rather than the full application source.
 
-- **ML / Deep Learning:** PyTorch, scikit-learn, TensorFlow, Keras
-- **Computer Vision:** OpenCV, YOLO, MediaPipe, Vision Transformers
-- **NLP / GenAI:** Transformers, BERT, Arabic NLP, ALLaM, RAG, prompt engineering
-- **MLOps / Cloud:** MLflow, FastAPI, Azure ML, AWS, Docker
-- **Mobile / On-device AI:** Swift, SwiftUI, Core ML, Create ML
-- **Data:** Pandas, NumPy, SQL, Matplotlib, Power BI
+## Areas I work in
 
-## Professional activity
+- **Machine learning:** model development, evaluation, feature engineering
+- **Computer vision:** object detection, tracking, image understanding, explainability
+- **Generative AI & NLP:** LLM applications, RAG, prompt engineering, Arabic NLP
+- **Applied AI:** multimodal systems, APIs, dashboards, and on-device ML
 
-- **Scientific Research Team Lead, AI Committee — Saudi Developer Community (SDC)** · Oct 2026–Present  
-  Leading collaborative work to make AI research more accessible in Arabic through research monitoring, translation, summarization, quality review, and publication.
+## Tools
 
-- **Saudi Council of Engineers** · Active registration  
-  Professional classification: **AI Specialist** (أخصائي ذكاء اصطناعي).
+**Languages** — Python, Swift, SQL, C++
 
-## Credentials
+**ML / AI** — PyTorch, scikit-learn, TensorFlow, Transformers, OpenCV, YOLO, MediaPipe, Core ML
 
-**Earned**
-- GitHub Copilot Fundamentals (GH-300)
-- IBM AI Engineering
-- IBM Deep Learning with PyTorch, Keras and TensorFlow Specialization
-- IBM Machine Learning Specialization
-- IBM Data Science Specialization
-- AWS AI & ML Scholars — Future AI Engineer Nanodegree (Udacity)
-- Data Science & AI Track — Tuwaiq Academy
-- Microsoft Virtual Experience — Data Science & AI
-- STC Virtual Experience — Data Analysis
+**Engineering** — FastAPI, Flask, Docker, MLflow, Azure ML, AWS, Supabase, Git
 
-**In progress / scheduled**
-- AWS Certified AI Practitioner — in progress
-- SDAIA AI Engineer Badge — exam scheduled for December 5, 2026
+## Experience
 
-*Keep this list aligned with the actual credential records and update it whenever a certificate's status changes.*
+**Scientific Research Team Lead — AI Committee, Saudi Developer Community (SDC)** · Oct 2026–Present
 
-## Contact
+Leading a team working to make AI research more accessible in Arabic through research monitoring, translation, summarization, quality review, and publication.
 
-- [Portfolio](https://abdullahalshobaki.me)
-- [LinkedIn](https://www.linkedin.com/in/abdulahals)
-- [GitHub](https://github.com/3bdulah)
+**AI Developer & Team Lead — Marsad Smart Stadium AI, SCAI** · 2025
+
+Contributed to a smart-stadium AI project spanning crowd monitoring, computer vision, player analytics, and an Arabic fan-assistant concept.
+
+---
+
+<div align="center">
+
+[Website](https://abdullahalshobaki.me) · [LinkedIn](https://www.linkedin.com/in/abdulahals) · [GitHub](https://github.com/3bdulah)
+
+</div>
