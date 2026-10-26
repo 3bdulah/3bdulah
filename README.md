@@ -16,10 +16,6 @@
 
 ## `whoami`
 
-I'm an Artificial Intelligence Engineering graduate from **Bahçeşehir University** who likes building AI beyond a notebook — from data and model development to evaluation, explainability, APIs, and usable applications.
-
-My interests sit around **machine learning, computer vision, multimodal AI, Arabic NLP, and generative AI**. I care about what a model can do, how it behaves, and where its limitations are.
-
 ```typescript
 const abdullah = {
   role: "AI Engineer",
