@@ -31,6 +31,9 @@ A simulation-based traffic management and monitoring platform combining SUMO, co
 ### [Explainable AI for Autonomous Vehicles](https://github.com/3bdulah/explainable-ai-autonomous-vehicles)
 A CARLA-based autonomous-driving simulation exploring interpretable perception and driving decisions with RGB cameras, LiDAR, YOLOv5, Grad-CAM, and SHAP.
 
+### [Marsad — Smart Stadium AI](https://github.com/3bdulah/marsad-ai-league)
+A smart-stadium project exploring crowd monitoring, safety analytics, player-performance signals, and an Arabic fan-assistant experience. The repository documents the project and its intended modules; distinguish demonstrated components from proposed capabilities.
+
 ### [Telco Churn MLOps](https://github.com/3bdulah/telco-churn-mlops)
 An end-to-end machine-learning workflow with model comparison, MLflow experiment tracking, SHAP explanations, drift-monitoring experiments, FastAPI, Streamlit, and Azure ML deployment scripts.
 
