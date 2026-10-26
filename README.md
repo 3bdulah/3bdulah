@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123C69,100:00D4FF&height=210&section=header&text=Abdullah%20Al-Shobaki&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=59&descSize=16" width="100%" alt="Abdullah Al-Shobaki — AI Engineer header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:263445,100:475569&height=210&section=header&text=Abdullah%20Al-Shobaki&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20ENGINEER&descAlignY=59&descSize=17&descColor=E2E8F0" width="100%" alt="Abdullah Al-Shobaki — Artificial Intelligence Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%2F+Computer+Vision;Multimodal+AI+%2F+Arabic+NLP;From+research+to+working+systems;Curious+by+default.+Engineer+by+practice." alt="Rotating introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Machine+Learning;Computer+Vision;Multimodal+AI+%7C+Arabic+NLP;Generative+AI+Applications" alt="AI engineering focus areas" />
 
 <p>
-<a href="https://abdullahalshobaki.me"><img src="https://img.shields.io/badge/Portfolio-07111F?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdulahals"><img src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://abdullahalshobaki.me"><img src="https://img.shields.io/badge/Portfolio-07111F?style=for-the-badge&logo=vercel&logoColor=94A3B8" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdulahals"><img src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=94A3B8" alt="LinkedIn" /></a>
 <a href="https://github.com/3bdulah"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-07111F?style=for-the-badge&logo=googlemaps&logoColor=00D4FF" alt="Riyadh, Saudi Arabia" />
+<img src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-07111F?style=for-the-badge&logo=googlemaps&logoColor=94A3B8" alt="Riyadh, Saudi Arabia" />
 </p>
 </div>
 
@@ -39,8 +39,7 @@ const abdullah = {
     "OpenCV", "Transformers", "YOLO",
     "FastAPI", "Flask", "Docker", "MLflow",
   ],
-  currentMission: "Turn AI ideas into evaluated, usable systems",
-  engineeringRule: "A good demo is a start. Evaluation is part of the work.",
+  interests: ["Model Evaluation", "Explainable AI", "Applied Research"],
 };
 ```
 
@@ -128,10 +127,10 @@ An AI-assisted food-inventory app concept with Arabic/English support, receipt s
 
 <div align="center">
 
-**Practical AI. Thoughtful engineering. Research that becomes useful software.**
+**Artificial Intelligence Engineer | Machine Learning · Computer Vision · Generative AI**
 
 <a href="https://abdullahalshobaki.me">Website</a> · <a href="https://www.linkedin.com/in/abdulahals">LinkedIn</a> · <a href="https://github.com/3bdulah">GitHub</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:123C69,100:07111F&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8,55:123C69,100:07111F&height=100&section=footer" width="100%" alt="" />
 
 </div>
