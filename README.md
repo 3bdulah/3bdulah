@@ -112,10 +112,6 @@ An AI-assisted food-inventory app concept with Arabic/English support, receipt s
 
 <div align="center">
 
-**Artificial Intelligence Engineer | Machine Learning · Computer Vision · Generative AI**
-
-<a href="https://abdullahalshobaki.me">Website</a> · <a href="https://www.linkedin.com/in/abdulahals">LinkedIn</a> · <a href="https://github.com/3bdulah">GitHub</a>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8,55:123C69,100:07111F&height=100&section=footer" width="100%" alt="" />
 
 </div>
