@@ -110,15 +110,6 @@ An AI-assisted food-inventory app concept with Arabic/English support, receipt s
 
 </div>
 
-## Outside the notebook
-
-- **AI research in Arabic:** Scientific Research Team Lead with the Saudi Developer Community's AI Committee, helping make AI research more accessible through monitoring, translation, summarization, quality review, and publication.
-- **Applied AI:** Contributed to a smart-stadium project exploring crowd monitoring, player analytics, and an Arabic fan-assistant concept.
-- **Explainability:** Interested in not only what a model predicts, but how it behaves, where it fails, and what evidence supports its output.
-
-
----
-
 <div align="center">
 
 **Artificial Intelligence Engineer | Machine Learning · Computer Vision · Generative AI**
