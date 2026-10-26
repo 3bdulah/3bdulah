@@ -136,7 +136,7 @@ An AI-assisted food-inventory app concept with Arabic/English support, receipt s
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated snake moving across the GitHub contribution grid" />
+<img src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" width="96%" alt="Animated snake moving across the GitHub contribution grid" />
 
 </div>
 
