@@ -123,22 +123,6 @@ An AI-assisted food-inventory app concept with Arabic/English support, receipt s
 - **Applied AI:** Contributed to a smart-stadium project exploring crowd monitoring, player analytics, and an Arabic fan-assistant concept.
 - **Explainability:** Interested in not only what a model predicts, but how it behaves, where it fails, and what evidence supports its output.
 
-## GitHub signal
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=3bdulah&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D4FF&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" height="165" alt="GitHub profile statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulah&layout=compact&hide_border=true&bg_color=07111F&title_color=00D4FF&text_color=CBD5E1" height="165" alt="Most used languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3bdulah&bg_color=07111F&color=CBD5E1&line=00D4FF&point=38BDF8&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/3bdulah/3bdulah/output/github-snake-dark.svg" width="96%" alt="Animated snake moving across the GitHub contribution grid" />
-
-</div>
 
 ---
 
